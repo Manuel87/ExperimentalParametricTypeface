@@ -1,5 +1,5 @@
 # Experimental Parametric Typeface
-This experimental design uses only drawn outlines and interpolation calculations, very similar to the new variable font format. Except it allows to use simple math to manipulate the communication between the different axes as the following example shows.
+This experimental design (*early 2014) uses only drawn outlines and interpolation calculations, very similar to the new variable font format. Except it allows to use simple math to manipulate the communication between the different axes as the following example shows.
 
 
 
@@ -8,7 +8,7 @@ This experimental design uses only drawn outlines and interpolation calculations
   
 (ContrastMaster = WeightSlider * SliderContrast;)
 
-### Independent behaviour 
+### Independent behaviour, vff-spec 2017
 <img src="README_media/Contrast-Weight-Behaviour--independent-axes--not-wanted.gif" height="180" alt="Independent Behaviour - Amstelvar"/>
 In the current spec of the variable font format the designer can not yet specify the relation between the axes. (Example from Amstelvar)
 
