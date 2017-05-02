@@ -18,5 +18,5 @@ https://vimeo.com/118806744
 
 
 
-**Copy Right**
+**Rights**
 - Attribution only. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)
