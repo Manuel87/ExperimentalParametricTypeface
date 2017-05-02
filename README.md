@@ -1,4 +1,15 @@
 # Experimental Parametric Typeface
+This experimental design uses only drawn outlines and simple interpolation calculations, very similar to the new variable font format. Except it allows to use simple math to manipulate the communication between the different axes as the following example shows.
+
+
+Independent behaviour:
+![Independent Behaviour](Contrast-Weight-Behaviour--independent-axes--not-wanted.gif)  
+In the current spec of the variable font format the designer can not yet specify the relation between the axes.
+
+Controlled behaviour, supplied by the type designer
+![Controlled Behaviour](Contrast-Weight-Behaviour--axes-communication--wanted.gif)
+
+
 
 [![Working Example Vimeo Screenshot](README_media/vimeo_screenshot.png)](https://vimeo.com/118806744)  
 https://vimeo.com/118806744
