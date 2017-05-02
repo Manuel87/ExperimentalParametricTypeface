@@ -1,5 +1,5 @@
 # Experimental Parametric Typeface
-This experimental design uses only drawn outlines and simple interpolation calculations, very similar to the new variable font format. Except it allows to use simple math to manipulate the communication between the different axes as the following example shows.
+This experimental design uses only drawn outlines and interpolation calculations, very similar to the new variable font format. Except it allows to use simple math to manipulate the communication between the different axes as the following example shows.
 
 
 
