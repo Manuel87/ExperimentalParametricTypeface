@@ -3,11 +3,11 @@ This experimental design uses only drawn outlines and simple interpolation calcu
 
 
 Independent behaviour:
-<img src="README_media/Contrast-Weight-Behaviour--independent-axes--not-wanted.gif" height="180"/ alt="Independent Behaviour - Amstelvar">
+<img src="README_media/Contrast-Weight-Behaviour--independent-axes--not-wanted.gif" height="180" alt="Independent Behaviour - Amstelvar"/>
 In the current spec of the variable font format the designer can not yet specify the relation between the axes. (Example from Amstelvar)
 
 Controlled behaviour, supplied by the type designer:
-<img src="README_media/Contrast-Weight-Behaviour--axes-communication--wanted.gif" height="180"/ alt="Controlled Behaviour">
+<img src="README_media/Contrast-Weight-Behaviour--axes-communication--wanted.gif" height="180" alt="Controlled Behaviour"/>
 E.g.: ContrastMaster = WeightSlider * SliderContrast;
 
 
