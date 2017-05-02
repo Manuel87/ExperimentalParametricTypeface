@@ -10,7 +10,7 @@ This experimental design (*early 2014) uses only drawn outlines and interpolatio
 
 ### Independent behaviour, vff-spec 2017
 <img src="README_media/Contrast-Weight-Behaviour--independent-axes--not-wanted.gif" height="180" alt="Independent Behaviour - Amstelvar"/>
-In the current spec of the variable font format the designer can not yet specify the relation between the axes. (Example from Amstelvar)
+In the current spec of the variable font format the designer can not yet specify the relation between the axes. Problem: Contrast ratio changes while adjusting weight, ande vice versa. (Example: Amstelvar)
 
 ----
 
