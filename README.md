@@ -3,7 +3,7 @@ This experimental design uses only drawn outlines and simple interpolation calcu
 
 
 
-### Controlled behaviour, supplied by the type designer:  
+### Controlled behaviour, supplied by the type designer  
 <img src="README_media/Contrast-Weight-Behaviour--axes-communication--wanted.gif" height="180" alt="Controlled Behaviour"/>  
   
 (ContrastMaster = WeightSlider * SliderContrast;)
@@ -17,6 +17,7 @@ In the current spec of the variable font format the designer can not yet specify
 [![Working Example Vimeo Screenshot](README_media/vimeo_screenshot.png)](https://vimeo.com/118806744)  
 https://vimeo.com/118806744
 
+**Use**
 1. copy .py File to Glyphs script folder
 2. Open .Glyphs file
 3. Run “Parametric Typeface AAVT-MM-Outline”
